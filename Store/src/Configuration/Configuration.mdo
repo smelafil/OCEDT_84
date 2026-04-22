@@ -43,4 +43,5 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Производители</catalogs>
   <documents>Document.ПоступлениеТовара</documents>
+  <documents>Document.РеализацияТоваровУслуг</documents>
 </mdclass:Configuration>
